@@ -1,0 +1,37 @@
+Binary Decimal Hexadecimal Converter
+------------------------------------
+
+-----------------------------------------
+Binary      = 00000000
+Decimal     = 0
+Hexadecimal = 0
+
+-----------------------------------------
+Binary      = 00000001
+Decimal     = 1
+Hexadecimal = 1
+
+-----------------------------------------
+Binary      = 00001010
+Decimal     = 10
+Hexadecimal = a
+
+-----------------------------------------
+Binary      = 00001111
+Decimal     = 15
+Hexadecimal = f
+
+-----------------------------------------
+Binary      = 00110010
+Decimal     = 50
+Hexadecimal = 32
+
+-----------------------------------------
+Binary      = 01100100
+Decimal     = 100
+Hexadecimal = 64
+
+-----------------------------------------
+Binary      = 11111111
+Decimal     = 255
+Hexadecimal = ff

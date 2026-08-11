@@ -1,0 +1,19 @@
+`timescale 1ns / 1ps
+
+module converter_tb;
+
+converter uut();
+
+initial
+begin
+
+$display("Binary Decimal Hexadecimal Converter");
+$display("------------------------------------");
+
+#100;
+
+$finish;
+
+end
+
+endmodule
